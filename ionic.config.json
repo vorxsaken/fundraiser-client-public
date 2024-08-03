@@ -1,0 +1,7 @@
+{
+  "name": "Pembayaran Spp SMK CSK",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
